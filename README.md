@@ -1,18 +1,3 @@
-cow_strike/
-│
-├── models/
-│   ├── cow.py           # Model สำหรับจัดการข้อมูลของวัวแต่ละสี
-│   
-│
-├── views/
-│   ├── view.py           # View สำหรับแสดงผลและรับข้อมูลจากผู้ใช้
-│                            
-│
-├── controllers/
-│   └── controller.py     # Controller สำหรับควบคุมการทำงานระหว่าง Model และ View
-│
-├── main.py               # จุดเริ่มต้นของโปรแกรม (การแสดงหน้าจอหลัก)
-└── README.md             # อธิบายการทำงานของโปรแกรม
 
 
 # Cow Strike Registration System
